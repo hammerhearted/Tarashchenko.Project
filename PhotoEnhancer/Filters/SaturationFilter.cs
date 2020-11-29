@@ -24,7 +24,7 @@ namespace PhotoEnhancer
             if (newS < 1 & newS>0)
                 return Convertors.HSL2Pixel(origH, newS, origL);
             else
-                return Convertors.HSL2Pixel(origH, Pixel.Trim(newS), origL);
+                return Convertors.HSL2Pixel(origH, Pixel.Trim(newS), origL); 
 
 
         }
