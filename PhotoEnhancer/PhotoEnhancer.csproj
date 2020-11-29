@@ -58,7 +58,6 @@
     <Compile Include="Filters\ParameterInfo.cs" />
     <Compile Include="Filters\ParametrizedFilter.cs" />
     <Compile Include="Filters\PixelFilter.cs" />
-    <Compile Include="Filters\RGB2HLS2RGBFilter.cs" />
     <Compile Include="Filters\SaturationFilter.cs" />
     <Compile Include="Filters\SaturationParameters.cs" />
     <Compile Include="MainForm.cs">
